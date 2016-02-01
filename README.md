@@ -5,9 +5,7 @@ Compilation of useful and various Android Resources
   understand the resource fully before putting it here).
 
 ## Animations
-*
-
-## Recycler view
+* [RecyclerView Animations Part 1](http://www.birbit.com/recyclerview-animations-part-1-how-animations-work/).
 
 
 ## Github Samples
