@@ -11,3 +11,7 @@ Compilation of useful and various Android Resources
 ## Github Samples
 
 ## Libraries
+
+
+## Gradle
+* [Using password prompts with gradle build files](https://www.timroes.de/2014/01/19/using-password-prompts-with-gradle-build-files/)
